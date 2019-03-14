@@ -1,4 +1,4 @@
-package Generics.Wildcards;
+package Generics.Wildcards5;
 
 /**
  * @author Tousif
